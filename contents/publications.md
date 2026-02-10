@@ -1,4 +1,4 @@
-1. <strong>Yongliang Xu</strong>, Hang Cheng*, Jingyu Zheng, Xinpeng Zhang, and Huaxiong Wang, “MPA: Lightweight and Updatable Integrity Auditing for Decentralized Storage using Merkle Trees and Polynomial Commitments," <strong>*IEEE Transactions on Information Forensics and Security*</strong>, vol. XX, pp. XXXX-XXXX, 2026. <strong>(CCF A)</strong> [[Paper]]()
+1. <strong>Yongliang Xu</strong>, Hang Cheng*, Jingyu Zheng, Xinpeng Zhang, and Huaxiong Wang, “MPA: Lightweight and Updatable Integrity Auditing for Decentralized Storage using Merkle Trees and Polynomial Commitments," <strong>*IEEE Transactions on Information Forensics and Security*</strong>, vol. XX, pp. XXXX-XXXX, 2026. <strong>(CCF A)</strong>
 
 2. <strong>Yongliang Xu</strong>, Hang Cheng*, Jiguo Li, Ximeng Liu, Xinpeng Zhang, and Meiqing Wang, “Lightweight
 multi-user public-key authenticated encryption with keyword search," <strong>*IEEE Transactions on Information Forensics and Security*</strong>, vol. 20, pp. 3234-3246, 2025. <strong>(CCF A)</strong> [[Paper]](https://ieeexplore.ieee.org/document/10919105) [[Code]](https://github.com/EvilRhua/LM-PAEKS)
