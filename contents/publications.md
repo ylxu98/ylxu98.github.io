@@ -4,3 +4,7 @@
 
 3. <strong>Yongliang Xu</strong>, Hang Cheng*, Ximeng Liu, Changsong Jiang, Xinpeng Zhang, and Meiqing Wang, “PCSE: Privacy-Preserving Collaborative Searchable Encryption for Group Data Sharing in Cloud Computing," <strong>*IEEE Transactions on Mobile Computing*</strong>, vol. 24,
 no. 5, pp. 4558-4572, 2025. <strong>(CCF A)</strong> [[Paper]](https://ieeexplore.ieee.org/document/10829788) [[Code]](https://github.com/EvilRhua/PCSE) 
+
+4. <strong>Yongliang Xu</strong>, Chunhua Jin*, Wenyu Qin, Jie Zhao, Guanhua Chen, and Fugeng Zeng, “BDACD: Blockchain-Based Decentralized Auditing Supporting Ciphertext Deduplication," <strong>*Journal of Systems Architecture*</strong>, vol. 147, p. 103053, 2024. <strong>(CCF B)</strong> [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1383762123002321)
+
+5. <strong>Yongliang Xu</strong>, Chunhua Jin*, Wenyu Qin, Jinsong Shan, and Ying Jin, “Secure Fuzzy Identity-Based Public Verification for Cloud Storage," <strong>*Journal of Systems Architecture*</strong>, vol. 128, p. 102558, 2022. <strong>(CCF B)</strong> [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1383762122001114)
